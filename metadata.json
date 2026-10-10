@@ -1,0 +1,6 @@
+{
+  "name": "NovaTrade Paper Trading",
+  "description": "Professionelle Simulationstrading-App mit Live-Marktdaten, Order-Execution-Engine und PostgreSQL-Datenbankschema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
